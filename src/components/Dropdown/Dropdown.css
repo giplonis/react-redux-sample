@@ -1,0 +1,14 @@
+.dropdown {
+  margin: 15px auto;
+  width: 65%;
+  height: 30px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.6);
+  border: none;
+  outline: none;
+}
+
+.option * {
+  font-size: 1em;
+  background: rgba(255, 255, 255, 0.6);
+}

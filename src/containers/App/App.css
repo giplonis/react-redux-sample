@@ -1,0 +1,19 @@
+.container {
+  width: 90vw;
+  max-width: 700px;
+  height: 40vh;
+  max-height: 600px;
+  margin: 15vh auto 15vh auto;
+  display: flex;
+  flex-direction: column;
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: 20px;
+  position: relative;
+  align-items: center;
+  padding: 30px 15px;
+}
+
+.titleDiv {
+  text-align: center;
+  margin-top: 30px;
+}
